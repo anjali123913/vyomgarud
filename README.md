@@ -66,6 +66,28 @@ src/
 └── App.jsx # Parent app file for rendering components
 
 
+## 📸 UI Preview
+
+###  Hero section
+![Hero Section](./public/hero.png)
+
+###  About section
+![About Section](./public/about.png)
+
+###  Capability section
+![Capability Section](./public/capability.png)
+
+###  Feature section
+![Feature Section](./public/features.png)
+
+
+###  Contact section
+![Contact Section](./public/contact.png)
+
+###  Footer section
+![Footer Section](./public/footer.png)
+
+
 ---
 
 ## ⚙️ How It Works
